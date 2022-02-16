@@ -6,6 +6,10 @@ Perez, Sylvie and Cui, Yihui and Vignoud, Gaëtan and Perrin, Elodie and Mendes,
 Install conda and use
 conda env create -file environment.yml
 
+cd striatalLearning
+mkdir Articles/DMS_DLS/Simu
+mkdir Articles/DMS_DLS/Simu/local
+
 # In Cluster/params_DMS_article.txt Parameters used in the article figures
 
 # In Code/FiguresDMS.py, code for all figures and associated analysis
